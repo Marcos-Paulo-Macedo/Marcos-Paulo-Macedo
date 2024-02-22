@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marcos-Paulo-Macedo
 - 👀 I’m interested in back end and front end programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python,Java,Delphi,React
 - 💞️ I’m looking to collaborate on programming projects
 - 📫 How to reach me my Instagram
 
