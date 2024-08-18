@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marcos-Paulo-Macedo
 - 👀 I’m interested in back end, front end and DBA programming
-- 🌱 I’m currently learning Python,Java,Delphi,React
+- 🌱 I’m currently learning Python e Kotlin
 - 💞️ I’m looking to collaborate on programming projects
 - 📫 How to reach me my Instagram - @marcos.storchio
 - 
