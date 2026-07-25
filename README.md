@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 Dual-background professional in **Chemical Engineering** and **Systems Analysis & Development**. Specialized in building resilient, enterprise-grade Robotic Process Automation (RPA) pipelines, designing PostgreSQL database governance architectures, and applying Computer Vision models in production.
 
 - 🔬 **Published Researcher:** Co-author of applied Computer Vision & OCR research for civil document classification under GDPR/LGPD compliance (99.6% accuracy).
@@ -16,7 +16,7 @@ Dual-background professional in **Chemical Engineering** and **Systems Analysis 
 
 ---
 
-## 🛠 Tech Stack & Tools
+##  Tech Stack & Tools
 
 - **Languages:** Python, SQL, Java, Kotlin, JavaScript
 - **Automation & RPA:** UiPath Orchestrator, Selenium, Web Scraping, Process Mining
@@ -26,9 +26,9 @@ Dual-background professional in **Chemical Engineering** and **Systems Analysis 
 
 ---
 
-## 📑 Featured Research & Key Projects
+##  Featured Research & Key Projects
 
-- **[Proteo — Computer Vision Document Classifier]:** Hybrid AI multi-layer framework using EfficientNetB0, OpenCV, and Modulo 11 validation for automated identity verification.
+- **[Computer Vision Document Classifier]:** Hybrid AI multi-layer framework using EfficientNetB0, OpenCV, and Modulo 11 validation for automated identity verification.
 - **[RPA Database Governance Architecture]:** PostgreSQL relational schema isolation model (`rpa_uipath`, `rpa_python`, `public`) enforcing Foreign Key execution tracking tied to Jira tickets.
 
 ---
